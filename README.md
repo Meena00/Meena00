@@ -1,6 +1,6 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 
 <!--
