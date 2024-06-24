@@ -1,8 +1,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meena00&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meena00&layout=compact&theme==transparent)
+
 
 
 
