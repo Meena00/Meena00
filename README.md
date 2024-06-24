@@ -1,5 +1,5 @@
 
-# Hello, folks![#f03c15] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meena00&layout=compact&theme=radical)
 
