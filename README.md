@@ -2,6 +2,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meena00&layout=compact&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meena00&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
