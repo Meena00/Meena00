@@ -6,8 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meena00&repo=Newest-Portfolio&theme=radical)](https://github.com/Meena00/Newest-Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meena00&repo=SimulationMARS&theme=radical)](https://github.com/Meena00/SimulationMARS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meena00&repo=GameBattle&theme=radical)](https://github.com/Meena00/GameBattle)
-- I'm currently working on an interactive Discord Bot using Javascript
-- I'm currently learning Cloud Computing in a rigorous 8-week program to complete AWS Certified Solutions Architect Associate certification
+
 
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/meena00/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn Icon" width="20" height="20">
