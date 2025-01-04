@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meena00&layout=compact&theme=radical)
 ## Top Repo's:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meena00&repo=Course-Progression&theme=radical)](https://github.com/Meena00/CourseProgression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meena00&repo=CourseProgression&theme=radical)](https://github.com/Meena00/CourseProgression)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meena00&repo=SimulationMARS&theme=radical)](https://github.com/Meena00/SimulationMARS)
 
 
